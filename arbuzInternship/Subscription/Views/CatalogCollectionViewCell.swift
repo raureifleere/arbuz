@@ -75,7 +75,6 @@ class CatalogCollectionViewCell: UICollectionViewCell {
     }()
     
     //Buttons
-    @objc func 
     
     override init(frame: CGRect) {
         super.init(frame: .zero)
