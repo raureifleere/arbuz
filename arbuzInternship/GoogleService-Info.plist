@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>219293121670-pmtvktb68lcff5a1rbpu724jjjr73l1e.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.219293121670-pmtvktb68lcff5a1rbpu724jjjr73l1e</string>
+	<key>API_KEY</key>
+	<string>AIzaSyA9Csoo3k9gVAcil0AvZcwp3GDRwkU2YWc</string>
+	<key>GCM_SENDER_ID</key>
+	<string>219293121670</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>kz.Syrok.arbuzInternship</string>
+	<key>PROJECT_ID</key>
+	<string>arbuzinternship</string>
+	<key>STORAGE_BUCKET</key>
+	<string>arbuzinternship.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:219293121670:ios:a3a532a98f3966e184e507</string>
+</dict>
+</plist>
